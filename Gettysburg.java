@@ -1,3 +1,8 @@
+/**
+ * jane schneider
+ * mr. ellis
+ * period 7
+ */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
